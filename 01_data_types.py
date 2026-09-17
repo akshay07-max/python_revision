@@ -19,3 +19,23 @@ d = "Good Boy"
 print(d)
 print(type(d))
 
+# 3] bool = Immutable. eg. True, False
+f = True
+print(f)
+print(type(f))
+
+
+# 4] list = Mutable eg. [1,2,3,4]
+g = [12, 32, 34, 55]
+print(g)
+print(type(g))
+
+# 5] Tuple = Immutable eg. (12, 44, 45)
+h = (12, 42, 55)
+print(h)
+print(type(h))
+
+# 6] set = Mutable eg. {1,2,4,5}
+i = {1, 3, 5, 7}
+print(i)
+print(type(i))
