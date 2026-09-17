@@ -39,3 +39,18 @@ print(type(h))
 i = {1, 3, 5, 7}
 print(i)
 print(type(i))
+
+# 7] frozenset = Immutable eg. frozenset({1,2})
+j = frozenset({1,2})
+print(j)
+print(type(j))
+
+# 8] dict = Mutable eg. {"a": 1, "b":2}
+k = {"a": 1, "b":2}
+print(k)
+print(type(k))
+
+# 9] NoneType = Immutable eg. None
+l = None
+print(l)
+print(type(l))
